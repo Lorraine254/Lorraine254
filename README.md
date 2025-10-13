@@ -7,7 +7,6 @@
 ## 💫 About Me
 
 - 🔭 **Currently working on:** GeoAI projects integrating data science and geospatial intelligence for environmental and suitability analysis  
-- 🎬 **Recent Project:** Land Degradation Monitoring using Satellite Imagery and Machine Learning  
 - 🌱 **Expertise:** Data analysis, machine learning, remote sensing, and geospatial intelligence (GeoAI)  
 - 📚 **Learning:** Advanced machine learning and AI for geospatial applications  
 - 💼 **Open to:** Collaborations in data-driven sustainability, GeoAI research, and open-source projects  
