@@ -4,10 +4,6 @@
   <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 </div>
 
----
-
-## 💫 About Me
-
 ## 💫 About Me
 
 - 🔭 **Currently working on:** GeoAI projects integrating data science and geospatial intelligence for environmental and suitability analysis  
